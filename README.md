@@ -18,8 +18,6 @@ It includes a contact form with validation, a responsive layout, and a dynamic T
 - index.html
 - style.css
 - script.js
-
-## 🎥 Demo
-()
+- 
 ## 🙋‍♀️ Author
 Arpita Priyadarshini Parida
